@@ -1,0 +1,10 @@
+C:\Users\George\source\repos\SGBDlab3\SGBDlab3\obj\Debug\SGBDlab3.csprojAssemblyReference.cache
+C:\Users\George\source\repos\SGBDlab3\SGBDlab3\obj\Debug\SGBDlab3.Properties.Resources.resources
+C:\Users\George\source\repos\SGBDlab3\SGBDlab3\obj\Debug\SGBDlab3.csproj.GenerateResource.cache
+C:\Users\George\source\repos\SGBDlab3\SGBDlab3\obj\Debug\SGBDlab3.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\SGBDlab3\SGBDlab3\bin\Debug\SGBDlab3.exe.config
+C:\Users\George\source\repos\SGBDlab3\SGBDlab3\bin\Debug\SGBDlab3.exe
+C:\Users\George\source\repos\SGBDlab3\SGBDlab3\bin\Debug\SGBDlab3.pdb
+C:\Users\George\source\repos\SGBDlab3\SGBDlab3\obj\Debug\SGBDlab3.Form1.resources
+C:\Users\George\source\repos\SGBDlab3\SGBDlab3\obj\Debug\SGBDlab3.exe
+C:\Users\George\source\repos\SGBDlab3\SGBDlab3\obj\Debug\SGBDlab3.pdb
