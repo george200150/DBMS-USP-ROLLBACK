@@ -83,13 +83,6 @@ namespace SGBDlab3
             adapter4.Fill(data4);
             dataGridView2.DataSource = data4.Tables[0];//luam tabelul returnat de query
 
-            SqlCommand cmd2 = new SqlCommand("usp_lab3_sgbd_teardown", connection);
-            cmd2.CommandType = CommandType.StoredProcedure;
-            connection.Open();
-            int rowAffected = cmd2.ExecuteNonQuery();
-            MessageBox.Show(rowAffected + " terminated aborted procedures");
-            connection.Close();
-
             updateThis();
         }
 
@@ -116,13 +109,6 @@ namespace SGBDlab3
             data4.Clear();
             adapter4.Fill(data4);
             dataGridView2.DataSource = data4.Tables[0];//luam tabelul returnat de query
-
-            SqlCommand cmd2 = new SqlCommand("usp_lab3_sgbd_teardown", connection);
-            cmd2.CommandType = CommandType.StoredProcedure;
-            connection.Open();
-            int rowAffected = cmd2.ExecuteNonQuery();
-            MessageBox.Show(rowAffected + " terminated aborted procedures");
-            connection.Close();
 
             updateThis();
         }
